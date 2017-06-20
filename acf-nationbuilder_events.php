@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Advanced Custom Fields: NationBuilder Events
-Plugin URI: http://www.raulnangolin.com
+Plugin URI: http://www.raulmangolin.com
 Description: New field type listing NationBuilder Events for WordPress Advanced Custom Field plugin
 Version: 0.1.0
 Author: Raul Mangolin
-Author URI: http://www.raulnangolin.com
+Author URI: http://www.raulmangolin.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
